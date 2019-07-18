@@ -1,0 +1,25 @@
+[33m48f1c11[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mman[m[33m)[m HEAD@{0}: checkout: moving from joy_dev to master
+[33mb8d0fa7[m[33m ([m[1;32mjoy_dev[m[33m)[m HEAD@{1}: commit: add git_hub.py
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{2}: checkout: moving from master to joy_dev
+[33m48f1c11[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mman[m[33m)[m HEAD@{3}: checkout: moving from man to master
+[33m48f1c11[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mman[m[33m)[m HEAD@{4}: merge Alex_dev: Fast-forward
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{5}: checkout: moving from master to man
+[33m48f1c11[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mman[m[33m)[m HEAD@{6}: merge Alex_dev: Fast-forward
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{7}: checkout: moving from Alex_dev to master
+[33m48f1c11[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mman[m[33m)[m HEAD@{8}: commit: Alex readme.md
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{9}: checkout: moving from man to Alex_dev
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{10}: checkout: moving from master to man
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{11}: checkout: moving from Alex_dev to master
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{12}: checkout: moving from master to Alex_dev
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{13}: checkout: moving from joy_dev to master
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{14}: checkout: moving from master to joy_dev
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{15}: reset: moving to HEAD
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{16}: reset: moving to HEAD
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{17}: reset: moving to HEAD
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{18}: reset: moving to HEAD
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{19}: reset: moving to a51aa9b
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{20}: reset: moving to HEAD^
+[33m5832230[m HEAD@{21}: commit: mv and rm
+[33ma51aa9b[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: v0.9[m[33m)[m HEAD@{22}: commit: add init
+[33m02c2f1e[m HEAD@{23}: commit: init add
+[33m14cbbf5[m HEAD@{24}: commit (initial): init add
